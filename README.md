@@ -63,8 +63,7 @@ This lab demonstrates the **Digital Image Negative** transformation.
 
 The grayscale image is converted into its negative using:
 
-```text
-Negative = 255 - Pixel
+**Negative = 255 - Pixel**
 
 ---
 
@@ -80,15 +79,7 @@ Negative = 255 - Pixel
 
 ### 🔄 Basic Workflow:
 
-Input Image
-     ↓
-Read Image using OpenCV
-     ↓
-Image Processing
-     ↓
-Display Result using Matplotlib
-     ↓
-Save Processed Image
+**Input Image → Read Image using OpenCV → Image Processing → Display Result using Matplotlib → Save Processed Image**
 
 
 ### 🚀 How to Run:
